@@ -1,3 +1,3 @@
 set nocompatible
-syntax on
+syntax off
 colo peachpuff
